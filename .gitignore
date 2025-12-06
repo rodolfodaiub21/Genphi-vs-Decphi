@@ -1,0 +1,36 @@
+# Large CSV datasets
+decphi_dataset.csv
+new_data_urls.csv
+Dataset/Dataset_Creator.csv
+Dataset/phishing.csv
+Phishing_Email.csv
+
+# Large model files
+detector_model/phishing_detector_model.pkl
+detector_model/phishing_detector_model.pth
+
+# Firebase credentials
+*.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Output directories
+output/
+*.png
+*.pkl
